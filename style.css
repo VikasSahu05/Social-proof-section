@@ -1,0 +1,38 @@
+body{
+    background: #ffffff;
+    font-size: 15px;
+    font-family: 'League Spartan', sans-serif;
+}
+h1{
+    color:hsl(300, 43%, 22%);
+    font-weight:bold;
+    font-size: 3rem;
+
+}
+.card{
+    font-size: 12px;
+    background:hsl(300, 43%, 22%);
+   color: #ffffff;
+}
+.card-subtitle{
+    color:hsl(333, 80%, 67%)
+}
+.rating{
+    background:hsl(300, 24%, 96%);
+    color:hsl(300, 43%, 22%);
+    font-weight: 900;
+}
+.section1 p{
+    color:hsl(303, 10%, 53%)
+}
+.card-body span{
+    font-size: 0.8rem;
+
+}
+.attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
